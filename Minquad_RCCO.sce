@@ -10,6 +10,14 @@ clear; clc; close;
         xi(i,1) = input("Entre com um valor de xi:")
     end
     
+//Utilizando programa sem input do usuário
+    
+    //n = 25
+    
+    //for i=1:n
+    //    xi(i,1) = i*4
+    //end
+    
 // Achando Limites
     
     
