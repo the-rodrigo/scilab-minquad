@@ -6,8 +6,8 @@ The program generate a graphic and a linear equation from the points xi inputted
 
 ## Graphs
 
-The generated graphs look like:<br>
-<img src="https://github.com/the-rodrigo/minquad/blob/main/assets/Coeficiente-Angular.PNG"></img>
+The generated graphs look like:<br><br>
+<img src="https://github.com/the-rodrigo/assets/blob/main/minquad-sce/graphs.png"></img>
 
 ## Tech
 
