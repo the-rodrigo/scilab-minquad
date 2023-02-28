@@ -1,8 +1,13 @@
-# Calculadora de Mínimos Quadrados - Scilab
+# Linearizador por Mínimos Quadrados - Scilab
 
 ## About
 
-The project is a calculator of the Least Square Method using a collection of points xi, yi. With the pourpose of linearization the values in a line equation.
+The program generate a graphic and a linear equation from the points xi inputted by the user
+
+## Graphs
+
+The generated graphs look like:<br>
+<img src="https://github.com/the-rodrigo/minquad/blob/main/assets/Coeficiente-Angular.PNG"></img>
 
 ## Tech
 
