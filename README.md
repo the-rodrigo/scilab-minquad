@@ -26,9 +26,6 @@ The linear correlation coefficient was calculated using the formula:<br>
 
 ## How to use
 
-#### Import the module
-- from minquad import main
-
-#### 🧠 <strong>minquad function</strong>
-- Parameters: xi, yi -> Two lists with the collection of points xi and yi<br>
-- Exits: angular, linear, r2 -> Angular, linear and linear correlation coefficients
+- Input n: The user need to choose the number of xi points will be needed
+- Input xi: Input which xi point one by one
+- The program will generate yi values that will be used on linearization
