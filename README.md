@@ -2,7 +2,7 @@
 
 ## About
 
-The program generate a graphic and a linear equation from the points xi inputted by the user
+The program generate a graphic and a linear equation from a number of points xi inputted by the user
 
 ## Graphs
 
